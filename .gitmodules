@@ -1,0 +1,3 @@
+[submodule "mobile_aloha_sim"]
+	path = mobile_aloha_sim
+	url = https://github.com/VincentYing/mobile_aloha_sim
