@@ -1,3 +1,11 @@
+Youtube project tour:
+
+[![Video Title](https://img.youtube.com/vi/6KMxXJWwgNw/0.jpg)](https://www.youtube.com/watch?v=6KMxXJWwgNw)
+
+Presentation for Aloha Wash:
+
+<a href="Aloha_Wash-Vincent_Ying.pdf" target="_blank" >Aloha_Wash-Vincent_Ying.pdf</a>
+
 Development was made on three separate packages, a fork of mobile_aloha_sim, aloha_drive, and aloha_wash. 
 
 - mobile_aloha_sim contains changes to gazebo to add cafe environment and towel prop (forked from robot supplier)
@@ -6,3 +14,4 @@ Development was made on three separate packages, a fork of mobile_aloha_sim, alo
 	- git history couldn't be transferred to gh classroom
 - aloha_wash contains arm manipulation logic
 	- git history couldn't be transferred to gh classroom
+
